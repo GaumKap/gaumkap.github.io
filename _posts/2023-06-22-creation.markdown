@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Creation of gaumkap.github.io"
+date:   2023-06-22 22:03:50 +0200
+categories: global
+---
+
+## Hello World
+This Page will be a replacement of the old blog on blogger.
+This is the global web page for my Github account.
+
+
+### What type of post here ? :
+Update, news about my "free time developer".
+Even if I'm not very active....
+
+
+### Why github page ? :
+Markdown is life.
