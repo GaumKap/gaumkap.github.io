@@ -1,7 +1,7 @@
-# GaumKap.GitHub.io
+# github.gaumkap.org
 
 This repository use jekyll.
 
-To acces on the web page go to [gaumkap.github.io](https://gaumkap.github.io)
+To acces on the web page go to [github.gaumkap.org](https://github.gaumkap.org)
 
 version 1.0

@@ -4,5 +4,3 @@
 
 layout: home
 ---
-
-Please let me time to learn and practice Jekyll to update this repository.
