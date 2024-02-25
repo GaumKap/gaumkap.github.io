@@ -22,7 +22,7 @@ title: Github Page gaumkap.org
 email: ""
 description: >- # this means to ignore newlines until "baseurl:"
   
-baseurl: "https://gaumkap.org/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 domain: "github.gaumkap.org"
 url: "https://github.gaumkap.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: GaumKap
