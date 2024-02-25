@@ -11,3 +11,14 @@ categories: github-page-update
 + Add redirection to gaumkap.org on top page
 + Edit name gaumkap.github.io to github.gaumkap.org
 ```
+
+### Blogger site
+
+Blogger is now accesible from this new url : [blog.gaumkap.org](https://blog.gaumkap.org)
+
+### gaumkap.org
+
+For now this page is empty, soon it will be filled with acces on all differents sites/project
++ github.gaumkap.org : all updates/releases notes of all my projects
++ blog.gaumkap.org : this is my blog
++ gaumkap.org : main website page
